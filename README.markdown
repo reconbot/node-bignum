@@ -1,6 +1,8 @@
 bignum
 ======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/node-bignum.svg)](https://greenkeeper.io/)
+
 [![Travis build status](https://travis-ci.org/justmoon/node-bignum.svg?branch=master)](https://travis-ci.org/justmoon/node-bignum)
 [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/svyho17a4eq2f0a7/branch/master?svg=true)](https://ci.appveyor.com/project/RodVagg/node-bignum/branch/master)
 
